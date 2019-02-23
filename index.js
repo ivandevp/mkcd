@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const { promisify } = require('util');
 
-const scriptFile = path.resolve(__dirname, 'scripts', 'mkcd.sh');
+const scriptFile = path.resolve(__dirname, 'script', 'mkcd.sh');
 
 const readdir = promisify(fs.readdir);
 const readFile = promisify(fs.readFile);
