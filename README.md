@@ -6,4 +6,5 @@ A simple `mkdir -p ./your/path && cd "$_"` in one command.
 
 ```bash
 npx ivandevp/mkcd
+source ~/.zshrc
 ```
