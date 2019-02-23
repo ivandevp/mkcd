@@ -1,0 +1,13 @@
+{
+  "name": "mkcd",
+  "description": "A simple `mkdir -p ./your/path && cd '$_'` in one command.",
+  "bin": "bin/mkcd.js",
+  "main": "index.js",
+  "version": "0.1.0",
+  "author": {
+    "email": "medinadiazivan@gmail.com",
+    "name": "Ivan Medina",
+    "url": "https://github.com/ivandevp"
+  },
+  "license": "MIT"
+}
